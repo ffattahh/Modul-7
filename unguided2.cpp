@@ -1,5 +1,3 @@
-//2311102169
-//Ben Waiz Pintus W
 #include <iostream>
 using namespace std;
 
